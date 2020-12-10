@@ -1,5 +1,6 @@
 # My Articles
 Small back end project for learning purposes on REST API using Ruby On Rails and Postgres database.
+
 Since the project covers only the back side of the system, i used the Faker gem (link below) to generate random data and populate the database. 
 
 ### Gems used
